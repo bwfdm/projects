@@ -19,6 +19,15 @@ A list of GitHub-available projects in the field of **Research Data Management**
 * RePlay-DH Client is an integrated tool for tracking, versioning and publishing workflows.
 * https://github.com/RePlay-DH
 
+## ViCE-Registry - an Image Registry for Virtual Images
+
+* The ViCE registry is a central image registry
+* The ViCE registry bridges the gaps between
+  - organizations
+  - execution environments and
+  - communities
+* https://vice-registry.github.io/vice-registry/
+
 ## ..
 
 
