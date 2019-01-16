@@ -28,6 +28,16 @@ A list of GitHub-available projects in the field of **Research Data Management**
   - communities
 * https://vice-registry.github.io/vice-registry/
 
+## V-FOR-WaTer - Virtual research environment for water and terrestrial environmental research
+*  Main focus on data management and direct access to analysis tools in order to quickly process research data and use them for prognostic modeling
+* More information on http://www.vforwater.de/english/
+* Software projects:
+  - vforwater-portal: Portal of the virtual research environment https://github.com/VForWaTer/vforwater-portal
+  - pleasant: Django based skeleton of a web portal application with maps https://github.com/VForWaTer/pleasant
+  - hydrobox: hydroligical preprosessing and analysis toolbox https://github.com/mmaelicke/hydrobox
+  - scikit-gstat: geostatistics tools https://github.com/mmaelicke/scikit-gstat
+ 
+
 ## ..
 
 
