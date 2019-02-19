@@ -11,7 +11,8 @@ A list of GitHub-available projects in the field of **Research Data Management**
 ## SARA - Software Archiving of Research Artefacts
 
 * The SARA project (Software Archiving of Research Artefacts) represents a new scientific service that allows long-term access and publishing of research data and scientific software. Its main focus is on software tools that support the processing and analysis of research data.
-* https://github.com/sara-service
+* More information: https://www.sara-service.org/
+* Demo version: https://www.sara-service.org/demo/
 
 ## RePlay-DH
 
