@@ -2,6 +2,7 @@ A list of GitHub-available projects in the field of **Research Data Management**
 
 * For more information please visit the main page -> https://www.forschungsdaten.info/
 * A list of useful RDM-tools could be also found [here](https://www.forschungsdaten.info/praxis-kompakt/links-zu-tools/). 
+* More RDM partner projects could be found in [partner-projects.md](partner-projects.md)
 
 ## RDMO - Research Data Management Organiser
 
