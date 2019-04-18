@@ -16,6 +16,15 @@ A list of GitHub-available projects in the field of **Research Data Management**
 * Demo version: https://www.sara-service.org/demo/
 * SARA on GitHub: https://github.com/sara-service
 
+## Spacialist - a virtual research environment for the Spatial Humanities
+
+* Spacialist is a customizable web-based platform for collecting, managing, analyzing and publishing research data with a focus on the integration of object-related and spatial data for the digital humanities.
+* More information: http://escience.uni-tuebingen.de/spacialist
+* Spacialist (main programme with basic modules) on Github: https://github.com/eScienceCenter/Spacialist
+* ThesauRex (thesaurus editing tool) on Github: https://github.com/eScienceCenter/ThesauRex
+* Spacialist Data Analyzer (module for data analysis) on Github: https://github.com/eScienceCenter/SpacialistDataAnalyzer
+
+
 ## RePlay-DH
 
 * Realization of a platform and accompanying services for research data management for the community of the digital humanities.
