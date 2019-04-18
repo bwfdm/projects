@@ -1,6 +1,6 @@
 A list of GitHub-available projects in the field of **Research Data Management**, which are running in Baden-Wuerttemberg, state of Germany.  
 
-* For more information please visit the main page -> https://www.forschungsdaten.info/
+* For more information please visit the main page -> https://www.forschungsdaten.info/praxis-kompakt/fdm-in-den-bundeslaendern/baden-wuerttemberg/
 * A list of useful RDM-tools could be also found [here](https://www.forschungsdaten.info/praxis-kompakt/links-zu-tools/). 
 * More RDM partner projects could be found in [partner-projects.md](partner-projects.md)
 
